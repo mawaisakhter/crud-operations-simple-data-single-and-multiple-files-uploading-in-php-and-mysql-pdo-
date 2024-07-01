@@ -1,6 +1,6 @@
 <?php
 
-    $db_name = "";
+    $db_name = "your_db_name";
     $username = "root";
     $password = "";
 
